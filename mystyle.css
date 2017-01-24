@@ -19,4 +19,6 @@ h2 {
 #boi {
       padding: 5px;
         display: block;
+	display: inline;
+      padding: 0px 10px 0px 10px;
 }
