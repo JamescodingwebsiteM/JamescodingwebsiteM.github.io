@@ -17,18 +17,18 @@ h2 {
 	color: rgb(255, 65,65);
 }
 .boi {
-      padding: 5 px;
+      padding: 5px;
         display: block;
 }
 article {
-	max-width:500 px;
-	padding:20 px;
+	max-width:500px;
+	padding:20px;
 	margin:0 auto;
 }
 img{
 	text-align: center;
 }
 p {
-	margin-left: 200 px;
-	margin-right:200 px;
+	margin-left: 200px;
+	margin-right:200px;
 }
