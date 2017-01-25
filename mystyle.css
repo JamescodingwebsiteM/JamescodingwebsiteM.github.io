@@ -28,3 +28,7 @@ article {
 img{
 	text-align: center;
 }
+p {
+	margin-left: 200 px;
+	margin-right:200 px;
+}
