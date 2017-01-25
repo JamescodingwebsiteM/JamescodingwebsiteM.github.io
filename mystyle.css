@@ -1,9 +1,7 @@
 body {
 	background-color: rgb(7,74,106);
 }
-h1{
-	text-align: center;
-}
+
 header{
 	text-align: center;
 	
@@ -34,6 +32,9 @@ p {
 	margin: auto;
 	border: 1px rgb( 7, 74, 106);
 }
-
-
+@ dapugwall.jpg(max-width: 500 px){
+h1 {
+	text-align: center;
+}
+}
 	
