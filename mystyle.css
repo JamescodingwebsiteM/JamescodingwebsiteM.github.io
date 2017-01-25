@@ -17,11 +17,14 @@ h2 {
 	color: rgb(255, 65,65);
 }
 .boi {
-      padding: 5px;
+      padding: 5 px;
         display: block;
 }
 article {
 	max-width:500 px;
 	padding:20 px;
 	margin:0 auto;
+}
+img{
+	text-align: center;
 }
