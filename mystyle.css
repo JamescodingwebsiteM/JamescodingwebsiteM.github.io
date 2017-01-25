@@ -4,6 +4,7 @@ body {
 
 header{
 	text-align: center;
+	background-image: url("dapugwall.jpg");
 	
 }
 
@@ -32,16 +33,9 @@ p {
 	margin: auto;
 	border: 1px rgb( 7, 74, 106);
 }
-@ dapugwall.jpg(max-width: 1000 px){
-	text-align: center;
-}
+
 h1 {
 	text-align: center;
 }
-img {
-      margin: 40 px 0 px 0 px 0 px;
-      border: 7 px rgb(255, 65, 65);
-      border-radius: 20 px;
-    }
 
 	
