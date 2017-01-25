@@ -32,7 +32,9 @@ p {
 	margin: auto;
 	border: 1px rgb( 7, 74, 106);
 }
-@ dapugwall.jpg(max-width: 500 px){
+@ dapugwall.jpg(max-width: 1000 px){
+	text-align: center;
+}
 h1 {
 	text-align: center;
 }
@@ -41,6 +43,5 @@ img {
       border: 7 px rgb(255, 65, 65);
       border-radius: 20 px;
     }
-}
 
 	
