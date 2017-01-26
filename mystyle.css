@@ -39,6 +39,8 @@ p {
 
 h1 {
 	text-align: center;
+	font-size: 50px;
+	color: red;
 }
 . the pic{
     display: block;
@@ -50,8 +52,4 @@ div{
     background-color: black;
     padding: 50px 30px 50px 80px;
 	word-spacing: 30px;
-}
-# title{
-	color: red;
-	font-size: 50px;
 }
